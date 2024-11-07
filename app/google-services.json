@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908690990638",
+    "project_id": "tracking-tool-4d27b",
+    "storage_bucket": "tracking-tool-4d27b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908690990638:android:9a588e93489e13399361bf",
+        "android_client_info": {
+          "package_name": "biz.itonline.trackrecord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBP-vADSkqRptS9qY5NpVneRVmYLw4Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
